@@ -1,0 +1,159 @@
+.banner-image {
+    height: 100%;
+    width: 100%;
+   
+    background: linear-gradient(to top, transparent, black);
+    object-fit: fill;
+  }
+  .banner {
+    position: relative;
+  }
+  .logo-image {
+    position: absolute;
+    /* top: 10; */
+    margin-top: -55%;
+    left: 0;
+    width: 140px;
+    object-fit: contain;
+    padding-left: 95px;
+    cursor: pointer;
+  }
+  .default-ltr-cache-fmygl2 > select {
+    -webkit-animation: animation-14hycbg;
+    animation: animation-14hycbg;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    background: transparent;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 0 solid transparent;
+    color: inherit;
+    font: inherit;
+    letter-spacing: inherit;
+    line-height: inherit;
+    margin: 0;
+    min-width: 15px;
+    min-height: 15px;
+    padding: 0;
+    text-align: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+    text-transform: inherit;
+  }
+  .english {
+    position: absolute;
+    margin-top: -54%;
+    margin-left: 74%;
+    height: 37px;
+    width: 120px;
+    background-color: black;
+    font-weight: bold;
+    color: white;
+    filter: opacity(100%);
+    padding-left: 2.25rem;
+    padding-bottom: 0.375rem;
+    padding-top: 0.375rem;
+    background: transparent;
+    border: none;
+  }
+  .sign-in-btn {
+    position: absolute;
+    background-color: red;
+    color: snow;
+    margin-top: -54%;
+    margin-left: 83%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0.0625rem;
+    height: 40px;
+    width: 88px;
+    border: none;
+    cursor: pointer;
+  }
+  .unlimited-text {
+    position: absolute;
+    font-size: 3.5rem;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    line-height: 71%;
+    margin-top: -39%;
+    margin-left: 34%;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+    justify-content: center;
+  }
+  .starts {
+    position: absolute;
+    margin-top: -29%;
+    margin-left: 39%;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+    /* margin-block-start: 0;
+      margin-block-end: 0;
+      margin: 0;
+      padding: 0; */
+    color: rgb(255, 255, 255);
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+  }
+  .Ready {
+    position: absolute;
+    margin-top: -26%;
+    margin-left: 35%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+    font: bold;
+  }
+  .Email-main {
+    position: absolute;
+    margin-top: -21%;
+    margin-left: 34%;
+    width: 20%;
+    height: 50px;
+    background-color: white;
+    color: black;
+    font: bold;
+    border: 0 solid transparent;
+    line-height: 1.5;
+    font-size: 1rem;
+    min-height: 16px;
+    min-width: 16px;
+    border-radius: 5px;
+  }
+  .Get-btn {
+    color: rgb(255, 255, 255);
+    background: rgb(229, 9, 20);
+    font-weight: bold;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+    height: 50px;
+    width: 156px;
+    font-size: 20px;
+    align-items: center;
+    font-family: roboto;
+    border: none;
+    position: absolute;
+    margin-top: -21%;
+    margin-left: 55%;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .svg-demo {
+    height: 14px;
+    margin-left: 8px;
+  }
+body {
+    margin: 0;
+    padding: 0;
+}  

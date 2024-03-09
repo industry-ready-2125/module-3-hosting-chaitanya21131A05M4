@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  .banner-image1 {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to top, transparent, black);
+    object-fit: fill;
+  }
+  .banner1 {
+    position: relative;
+  }
+  
+  .logo-image2 {
+    position: absolute;
+  
+    margin-top: -55%;
+    left: 0;
+    width: 140px;
+    object-fit: contain;
+    padding-left: 95px;
+    cursor: pointer;
+  }
+  .sign-2 {
+    position: absolute;
+    margin-top: -46%;
+    margin-left: 39%;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 28px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+      sans-serif;
+  }
+  .Email-main-2 {
+    position: absolute;
+    margin-top: -41%;
+    margin-left: 39%;
+    width: 20%;
+    height: 45px;
+    background-color: white;
+    color: black;
+    font: bold;
+    border: 0 solid transparent;
+    line-height: 1.5;
+    font-size: 1rem;
+    min-height: 16px;
+    min-width: 16px;
+    border-radius: 5px;
+  }
+  .password {
+    position: absolute;
+    margin-top: -37%;
+    margin-left: 39%;
+    width: 20%;
+    height: 45px;
+    background-color: white;
+    color: black;
+    font: bold;
+    border: 0 solid transparent;
+    line-height: 1.5;
+    font-size: 1rem;
+    min-height: 16px;
+    min-width: 16px;
+    border-radius: 5px;
+  }
+  .si-btn {
+    position: absolute;
+    margin-top: -31%;
+    margin-left: 39%;
+    width: 20%;
+    height: 45px;
+    cursor: pointer;
+    background: rgb(229, 9, 20);
+    color: white;
+    font-weight: bold;
+    border: 0 solid transparent;
+    line-height: 1.5;
+    font-size: 1rem;
+    min-height: 16px;
+    min-width: 16px;
+    border-radius: 5px;
+  }
+  .checkbx {
+    position: absolute;
+    margin-top: -26%;
+    margin-left: 39%;
+    height: 18px;
+    width: 22px;
+  }
+  
+  .remember {
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 41%;
+    color: white;
+    font-weight: bold;
+  }
+  .need-hlp {
+    margin-top: -18px;
+    margin-left: 190px;
+  }
+  
